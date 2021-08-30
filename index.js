@@ -100,7 +100,7 @@ Typer.file = 'asa.txt';
 Typer.init();
 
 function stvb() {
-navigator.vibrate([500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500]);
+navigator.vibrate([500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500]);
 }
 var timer = setInterval('t();', 30);
 function t() {
